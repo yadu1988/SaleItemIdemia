@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SaleItemManagementApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SaleItemManagementApplication.class, args);
 	}
 
